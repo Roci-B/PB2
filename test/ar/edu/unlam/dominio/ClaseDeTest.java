@@ -1,6 +1,8 @@
 package ar.edu.unlam.dominio;
 
 public class ClaseDeTest {
+	
+	// Clase con indicaciones para el desarrollo con TDD.
 
 	public void pasosParaDesarrollarConTDD() {
 		// Paso 1:
@@ -41,7 +43,13 @@ public class ClaseDeTest {
 	}
 
 	public void paraPracticar() {
-		// TODO: Realizar las pruebas de una clase Calculadora que permita realizar las
+		// TODO: Crear un usuario en GitHub.
+		// TODO: Crear un repositorio en GitHub.
+		// TODO: Clonar el repositorio.
+		// TODO: Crear una nueva rama en el repositorio antes creado.
+		// TODO: Desarrollar el ejercicio en la nueva rama y subirlo al repositorio.
+		
+		// TODO: Ejercicio: Realizar las pruebas de una clase Calculadora que permita realizar las
 		// operaciones:
 		// Sumar dos numeros enteros.
 		// Restar dos numeros enteros.
