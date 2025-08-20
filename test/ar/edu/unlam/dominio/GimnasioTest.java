@@ -18,6 +18,8 @@ public class GimnasioTest {
 	@Test
 	public void dadoQueExisteUnGimnasioConNombreCuandoConsultoSuNombreObtengoEclipseGym() {
 		// preparacion:
+		
+		// Comentamos la instancia de esta clase porque se movio con refactor al metodo inicializacion
 		//Gimnasio gimnasioEclipse = new Gimnasio();
 		this.gimnasioEclipse.setNombre("Eclipse Gym");
 
@@ -33,6 +35,8 @@ public class GimnasioTest {
 	@Test
 	public void dadoQueExisteUnGimnasioConNombreYCapacidadCuandoConsultoSuCapacidadObtengo50() {
 		// preparacion:
+		
+		// Comentamos la instancia de esta clase porque se movio con refactor al metodo inicializacion
 		//Gimnasio gimnasioEclipse = new Gimnasio();
 		this.gimnasioEclipse.setNombre("Eclipse Gym");
 
